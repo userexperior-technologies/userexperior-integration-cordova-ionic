@@ -110,7 +110,7 @@ UserExperior will upload the data, which could be seen within 5-7 minutes on the
 
 	Code Example:
   
-			UserExperior.startScreen("Notification Page");  
+		UserExperior.startScreen("Notification Page");  
 			
 	Note:  This method should be usually called when your page loads.
 
